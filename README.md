@@ -6,6 +6,7 @@ OverView: The purpose of this analysis was to compare different school districts
 <img width="992" alt="Final_School_District_Summary" src="https://user-images.githubusercontent.com/100330488/159140828-5b421612-efda-460f-93bb-6e52e4329c60.png">
 The two pictures summarize the differences. The top one reflects the original district summary whereas the bottom the updated final summary after the drops. After the drop of the data with regards to the suspected schools cheating, the data isnt much different. If we apply the percent change formula to the data we have "Final - initial/ initial", for math that results to  .0069% change in math results and reading 00269% change. Ultimately the scores were lower after the drop but as you can see the amount was negligible.
 How is the school Summary affected?
+
 Original Findings:
 <img width="1031" alt="Thomas_high orignal Results" src="https://user-images.githubusercontent.com/100330488/159141154-7bb068f8-ab03-4653-8398-704f1632bc51.png">
 New Findings:
