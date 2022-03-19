@@ -12,4 +12,4 @@ Original Findings:
 New Findings:
 
 <img width="1017" alt="New_Thomas_high_school final data" src="https://user-images.githubusercontent.com/100330488/159141234-83428ffd-f941-4ee0-9a95-9621fd7eff99.png">
-As you can see
+As you can see The original passing rates were nearly 91 percent but the board suspected the students of academic dishonesty. The new findings show a much lower passing rate at around 65$.
