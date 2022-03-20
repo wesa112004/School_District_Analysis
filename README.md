@@ -50,5 +50,13 @@ Adjusted Analysis:
 
  <img width="843" alt="School Spending by size adjusted" src="https://user-images.githubusercontent.com/100330488/159180056-d7856cb2-f1ef-4820-9c21-116412dd8429.png">
 
+The scores by school size changes drastically when replacing the 9th graders data
+
+Scores by school type original:
+
+<img width="747" alt="Scores by school type original" src="https://user-images.githubusercontent.com/100330488/159183804-e1c84aaa-d9f5-4e90-9c2f-b6876f136039.png">
+Adjusted Analysis:
+
+<img width="783" alt="Adjusted school type" src="https://user-images.githubusercontent.com/100330488/159183891-f047b94d-f7f6-419b-8f80-7a007f6ab99a.png">
 
 
