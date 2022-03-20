@@ -20,7 +20,7 @@ As you can see by the adjusted analysis (top chart) compared to the original (bo
 <img width="1088" alt="Original_School summary_THS" src="https://user-images.githubusercontent.com/100330488/159178674-c0a61512-7d68-4ff2-89fc-f72e7f06145f.png">
 
 
-##How does replacing the ninth-grade scores affect the following:
+###How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
@@ -30,5 +30,7 @@ Scores by school type
 <img width="553" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/100330488/159179124-db618db0-a410-48cf-b5c2-e7ad60788a74.png">
 
 <img width="553" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/100330488/159179137-3a67ff8c-cf13-4469-a20e-c0761fe454f7.png">
+The math and reading scores for THS have been replaced by NaN, which is a missing value after the scores have been dropped.
+<img width="1040" alt="Schools by spending Adjusted" src="https://user-images.githubusercontent.com/100330488/159179360-64773808-7218-42d1-b9e9-001eee458e1a.png">
 
 
