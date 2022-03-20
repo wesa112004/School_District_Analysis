@@ -13,3 +13,6 @@ New Findings:
 
 <img width="1017" alt="New_Thomas_high_school final data" src="https://user-images.githubusercontent.com/100330488/159141234-83428ffd-f941-4ee0-9a95-9621fd7eff99.png">
 As you can see The original passing rates were nearly 91 percent but the board suspected the students of academic dishonesty. The new findings show a much lower passing rate at around 65$.
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+<img width="1145" alt="Adjusted performance_THS" src="https://user-images.githubusercontent.com/100330488/159178094-c1800867-985e-4065-b17c-5e099f40c9ef.png">
+<img width="1119" alt="original THS" src="https://user-images.githubusercontent.com/100330488/159178453-7fb643c0-636b-4eca-b49e-c7aa51be4c63.png">
