@@ -18,6 +18,9 @@ As you can see by the adjusted analysis (top chart) compared to the original (bo
 <img width="1145" alt="Adjusted performance_THS" src="https://user-images.githubusercontent.com/100330488/159178094-c1800867-985e-4065-b17c-5e099f40c9ef.png">
 
 <img width="1088" alt="Original_School summary_THS" src="https://user-images.githubusercontent.com/100330488/159178674-c0a61512-7d68-4ff2-89fc-f72e7f06145f.png">
+Not much significant change in outcome for school type
+
+
 
 
 ###How does replacing the ninth-grade scores affect the following:
@@ -59,4 +62,8 @@ Adjusted Analysis:
 
 <img width="783" alt="Adjusted school type" src="https://user-images.githubusercontent.com/100330488/159183891-f047b94d-f7f6-419b-8f80-7a007f6ab99a.png">
 
+
+######Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+We can see that the passing rates for THS have changed fairly drastically from around 90% to 65% when replacing the scores with NaNs, as well as their ranking in the schools has dropped in the district when compared to the overal rankings among 15 schools. The data for the 9th graders will show as NaNs so we wont be able to have reliable information on their performance. We also saw changes in overall reading and math averages change, which we would naturally see as changing or dropping data where the numbers are a part of the average will impact the overal results
 
