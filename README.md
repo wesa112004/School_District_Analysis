@@ -19,3 +19,16 @@ As you can see by the adjusted analysis (top chart) compared to the original (bo
 
 <img width="1088" alt="Original_School summary_THS" src="https://user-images.githubusercontent.com/100330488/159178674-c0a61512-7d68-4ff2-89fc-f72e7f06145f.png">
 
+
+##How does replacing the ninth-grade scores affect the following:
+Math and reading scores by grade
+Scores by school spending
+Scores by school size
+Scores by school type
+
+<img width="640" alt="New_Math_scores_by_grade" src="https://user-images.githubusercontent.com/100330488/159179113-cdcec385-1d36-4688-b3aa-30078d2824a7.png">
+<img width="553" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/100330488/159179124-db618db0-a410-48cf-b5c2-e7ad60788a74.png">
+
+<img width="553" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/100330488/159179137-3a67ff8c-cf13-4469-a20e-c0761fe454f7.png">
+
+
