@@ -39,6 +39,16 @@ The math and reading scores for THS have been replaced by NaN, which is a missin
  Adjusted Spending Summary:
   <img width="1039" alt="adjust per student spending" src="https://user-images.githubusercontent.com/100330488/159179840-c5be267c-5fa3-4ff8-90b0-4aceaae7a9aa.png">
 
+There wasnt much change in the scores by school spending as can be seen by the charts
+
+## By school size
+Original analysis:
+
+<img width="935" alt="Spending by School size original" src="https://user-images.githubusercontent.com/100330488/159180028-2330028c-960d-4435-b7d1-2518916742f2.png">
+
+Adjusted Analysis:
+
+ <img width="843" alt="School Spending by size adjusted" src="https://user-images.githubusercontent.com/100330488/159180056-d7856cb2-f1ef-4820-9c21-116412dd8429.png">
 
 
 
