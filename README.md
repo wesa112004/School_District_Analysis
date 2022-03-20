@@ -31,6 +31,11 @@ Scores by school type
 
 <img width="553" alt="Reading_Scores_by_grade_Original" src="https://user-images.githubusercontent.com/100330488/159179137-3a67ff8c-cf13-4469-a20e-c0761fe454f7.png">
 The math and reading scores for THS have been replaced by NaN, which is a missing value after the scores have been dropped.
-<img width="1040" alt="Schools by spending Adjusted" src="https://user-images.githubusercontent.com/100330488/159179360-64773808-7218-42d1-b9e9-001eee458e1a.png">
+ Original Spending Summary:
+ <img width="925" alt="Spending summary original" src="https://user-images.githubusercontent.com/100330488/159179463-365df403-a861-4cba-b136-57c5d57bc37f.png">
+ 
+ Adjusted Spending Summary:
+ <img width="894" alt="Adjusted Spending" src="https://user-images.githubusercontent.com/100330488/159179557-95d46deb-fe80-4740-8031-f9cfe3b58096.png">
+
 
 
